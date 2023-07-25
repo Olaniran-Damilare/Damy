@@ -35,8 +35,15 @@ MONTHLY
 
 DISCOUNTS
 1. Total discount offered on each product for the year 2014
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%206.png)
+
 2. Total discount offered by each segment for the year 2014
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%207.png)
+
 
 PROFIT REMITTED 
 1. For year 2014 on each product and each segment
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%2012.PNG)
 
+
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%2013.PNG)
