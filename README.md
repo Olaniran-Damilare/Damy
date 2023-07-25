@@ -4,11 +4,17 @@ Showcase of my work
 
 FOR YEAR 2014 for XYZ STORES I GENERATED THE
 
-1.	Total sales on each Products
-   ![](https://github.com/Olaniran-Damilare/Damy/tree/main/IMAGES)
-3.	Total sales by each segments
-4. Total Units sold by each segments 
-5. Total units sold on each products
+1.	Total sales on each Products 
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%202.png)
+
+2.	Total sales by each segments
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%203.png)
+
+3.	Total Units sold by each segments
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%205.png)
+
+4.	Total units sold on each products
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%204.png)
 
 
 
