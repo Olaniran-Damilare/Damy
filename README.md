@@ -4,7 +4,7 @@ They need assistance in knowing what products and which segment made the highest
 
 Kindly analyze the following:
 
-![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/head%201.png)
+![](IMAGES/head1.png)
 
 
 **FOR YEAR 2014 for XYZ STORES I GENERATED THE:**
