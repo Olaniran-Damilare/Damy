@@ -10,7 +10,7 @@ FOR YEAR 2014 for XYZ STORES I GENERATED THE
 4. Total Units sold by each segments 
 5. Total units sold on each products
 
-![]
+
 
 MONTHLY 
 1. Total sales on each Products 
