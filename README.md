@@ -11,7 +11,7 @@ Kindly analyze the following:
 
 1.	**Total sales on each Products**
 
-![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%202.png)
+![](IMAGES/Head 2.png)
 
 2.	**Total sales by each segments**
 
