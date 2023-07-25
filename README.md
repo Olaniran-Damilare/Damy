@@ -24,12 +24,14 @@ MONTHLY
 ![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%208.PNG)
 
 2. Total sales by each segments
-![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%2010.PNG)
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%2011.PNG)
 
 3. Total Units sold by each segments 
-![]()
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%2010.PNG)
 
 4. Total units sold on each products
+![](https://github.com/Olaniran-Damilare/Damy/blob/main/IMAGES/Head%209.PNG)
+
 
 DISCOUNTS
 1. Total discount offered on each product for the year 2014
