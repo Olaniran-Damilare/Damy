@@ -1,6 +1,6 @@
 
-**XYZ STORES** need are seeking assistance in  understanding their transactions in each segments and on each product. 
-They need assistance in knowing what products and which segment made the highest sales  for the transaction year 2014.
+**XYZ STORES** needs assistance in  understanding their transactions in each segments and on each product for the transaction year 2014. 
+Kindly help deterine which products and which segment made the highest sales  for the transaction year 2014.
 
 Kindly analyze the following:
 
